@@ -3,7 +3,7 @@ body {
   margin: 0;
   background-color: #f4f4f4;
   color: #333;
-  padding-bottom: 60px; /* espacio para footer fijo */
+  padding-bottom: 60px; 
 }
 
 header {
@@ -31,14 +31,6 @@ nav ul {
   margin: 0;
 }
 
-/* Puedes eliminar esta regla para evitar conflicto */
-/*
-nav ul li {
-  display: inline-block;
-  margin: 0 15px;
-}
-*/
-
 nav ul li a {
   color: white;
   text-decoration: none;
@@ -59,7 +51,7 @@ section {
 }
 
 #contacto {
-  border: 2px solid #1abc9c; /* para visibilidad */
+  border: 2px solid #1abc9c; 
   background-color: #ffffff;
   color: #333333;
 }
